@@ -13,7 +13,7 @@ Prerequisites
 ---
 * Compatible reader
 * Fedict minidriver (part of eID Middleware)
-* Resent windows (tested on Windows 11)
+* Recent windows (tested on Windows 11)
 
 Getting Started
 ---
